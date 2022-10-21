@@ -311,3 +311,6 @@ history -a
 help let
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+(( I+= 10 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
