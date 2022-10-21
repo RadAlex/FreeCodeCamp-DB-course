@@ -596,3 +596,6 @@ history -a
 ./fortune.sh sdf
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+touch five.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
