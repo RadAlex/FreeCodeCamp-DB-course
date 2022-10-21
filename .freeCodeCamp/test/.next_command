@@ -193,3 +193,6 @@ history -a
 echo $?
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+help [[
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
