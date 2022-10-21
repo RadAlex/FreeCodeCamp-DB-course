@@ -578,3 +578,6 @@ history -a
 echo $?
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./fortune.sh qw
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
