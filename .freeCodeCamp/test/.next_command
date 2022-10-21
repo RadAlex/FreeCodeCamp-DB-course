@@ -510,3 +510,6 @@ history -a
 ./fortune.sh qwe
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+help [[
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
