@@ -599,3 +599,6 @@ history -a
 touch five.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+chmod +x five.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
