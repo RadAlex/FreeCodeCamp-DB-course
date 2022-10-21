@@ -629,3 +629,6 @@ history -a
 type then
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+type bash
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
