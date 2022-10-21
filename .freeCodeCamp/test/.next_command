@@ -54,3 +54,6 @@ history -a
 ./questionnaire.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo --help
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
